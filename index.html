@@ -1,90 +1,53 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hi">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Rohit Saroj - Video Editor Portfolio" />
-  <title>Rohit Saroj | Video Editor</title>
-  <style>
-    :root{color-scheme:dark;--bg:#0b1020;--panel:#151c30;--line:#2b3550;--text:#f6f7fb;--muted:#b5bfd5;--accent:#8aa7ff}
-    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
-    a{color:var(--accent)}.wrap{max-width:1080px;margin:auto;padding:0 20px}header{border-bottom:1px solid var(--line);background:#10172a;position:sticky;top:0;z-index:2}
-    nav{display:flex;justify-content:space-between;align-items:center;gap:12px;min-height:70px;flex-wrap:wrap}nav strong{font-size:20px}nav .links{display:flex;gap:16px;flex-wrap:wrap}nav a{text-decoration:none;color:var(--text)}
-    .hero{padding:92px 0 78px;background:radial-gradient(ellipse at 75% 20%,#26386a 0,transparent 50%)}h1{font-size:clamp(36px,7vw,68px);line-height:1.1;margin:8px 0 18px}h2{font-size:30px;margin:0 0 20px}.eyebrow{color:var(--accent);font-weight:700;letter-spacing:.12em;text-transform:uppercase}
-    .lead{max-width:700px;font-size:19px;color:var(--muted)}.button{display:inline-block;padding:11px 20px;border-radius:10px;background:var(--accent);color:#0b1020;text-decoration:none;font-weight:750;margin-top:14px}
-    section{padding:65px 0;border-bottom:1px solid var(--line)}.muted{color:var(--muted)}.skills{display:flex;flex-wrap:wrap;gap:10px}.pill{background:var(--panel);border:1px solid var(--line);padding:9px 14px;border-radius:99px}
-    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px}.project{background:var(--panel);border:1px solid var(--line);border-radius:16px;overflow:hidden}.project img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;background:#26304b}.project .content{padding:18px}.project h3{margin:0 0 6px}.tag{font-size:12px;color:var(--accent);text-transform:uppercase;letter-spacing:.08em}.project p{color:var(--muted);margin:8px 0}.project a{display:inline-block;margin-top:8px}
-    .status{padding:16px 0;color:var(--muted)}footer{padding:30px 0;color:var(--muted);text-align:center}button{font:inherit} .contact a{overflow-wrap:anywhere}
-  </style>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Rohit Saroj — video editing portfolio and free Hindi text-based Premiere Pro lessons.">
+<title>Rohit Saroj | Portfolio & Free Editing Courses</title>
+<style>
+:root{color-scheme:dark;--bg:#080c19;--panel:#121a2e;--line:#303654;--text:#f7f5ff;--muted:#b8bed4;--accent:#a477ff;--accent2:#6e42f5}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.65 system-ui,-apple-system,Segoe UI,sans-serif}a{color:#c6aaff}.wrap{width:min(1120px,calc(100% - 36px));margin:auto}header{position:sticky;top:0;z-index:10;background:#0b1020ed;backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}nav{display:flex;align-items:center;justify-content:space-between;gap:15px;min-height:72px;flex-wrap:wrap}nav strong{font-size:21px;letter-spacing:.02em}nav strong span{color:var(--accent)}.links{display:flex;gap:16px;flex-wrap:wrap}.links a{color:var(--text);text-decoration:none;font-size:14px}.links a:hover{color:var(--accent)}.hero{padding:95px 0;background:radial-gradient(ellipse at 75% 15%,#472187 0,transparent 48%),linear-gradient(135deg,#0c1125,#10142b)}h1{font-size:clamp(38px,7vw,72px);line-height:1.08;margin:12px 0 20px}h1 em{font-style:normal;color:#bd91ff}h2{font-size:clamp(26px,4vw,36px);margin:0 0 12px}h3{margin:0 0 8px}.eyebrow{color:#caabff;text-transform:uppercase;letter-spacing:.13em;font-weight:750;font-size:13px}.lead{max-width:710px;color:var(--muted);font-size:18px}.button{display:inline-block;border:0;border-radius:11px;padding:12px 20px;background:linear-gradient(110deg,var(--accent2),#a25cf7);color:white;text-decoration:none;font:700 15px system-ui;cursor:pointer}.button.secondary{background:transparent;border:1px solid #8067b8}.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:24px}section{padding:68px 0;border-bottom:1px solid var(--line)}.muted{color:var(--muted)}.skills{display:flex;gap:10px;flex-wrap:wrap}.pill{padding:9px 14px;border-radius:99px;background:#1a1c39;border:1px solid #443a70}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:20px}.card{border:1px solid var(--line);background:var(--panel);border-radius:16px;overflow:hidden}.card .content{padding:20px}.card img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;background:#232b48}.card p{color:var(--muted)}.tag{color:#c7a7ff;font-size:12px;letter-spacing:.08em;font-weight:800;text-transform:uppercase}.status{color:var(--muted);padding:12px 0}.course-shell{display:grid;grid-template-columns:minmax(190px,280px) minmax(0,1fr);gap:18px;margin-top:24px}.lesson-menu,.reader{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px}.lesson-menu button{display:block;width:100%;margin:8px 0;text-align:left;background:#1b2340;border:1px solid #38405d;border-radius:9px;color:var(--text);padding:11px;cursor:pointer}.lesson-menu button.active{background:#4a2a88;border-color:#a477ff}.reader{min-height:320px}.reader h3{font-size:25px}.reader p,.reader li{color:#d4d8e9}.reader img{max-width:100%;height:auto;border-radius:12px}.progress{height:9px;background:#303854;border-radius:30px;overflow:hidden;margin:12px 0}.progress>div{height:100%;background:#a477ff;width:0;transition:width .2s}.quiz{padding:15px;background:#1a2340;border-radius:12px;margin:18px 0}.quiz label{display:block;margin:10px 0}.quiz button{margin-top:8px}.contact a{overflow-wrap:anywhere}footer{padding:30px 0;text-align:center;color:var(--muted)}button:focus-visible,a:focus-visible{outline:3px solid #d9c4ff;outline-offset:3px}@media(max-width:700px){nav{padding:12px 0}.links{gap:12px}.hero{padding:65px 0}.course-shell{grid-template-columns:1fr}section{padding:48px 0}}
+</style>
 </head>
 <body>
-<header><nav class="wrap"><strong>Rohit Saroj</strong><div class="links"><a href="#about">About</a><a href="#skills">Specializations</a><a href="#projects">Projects</a><a href="#contact">Contact</a></div></nav></header>
+<header><nav class="wrap"><strong><span>R</span> ROHIT SAROJ</strong><div class="links"><a href="#home">Home</a><a href="#about">About</a><a href="#skills">Services</a><a href="#projects">Portfolio</a><a href="#courses">Free Courses</a><a href="#contact">Contact</a></div></nav></header>
 <main>
-  <div class="hero"><div class="wrap"><div class="eyebrow">Video Editor • Creative Storyteller</div><h1>Rohit Saroj</h1><p class="lead">I craft engaging edits for stories, brands and celebrations.</p><a class="button" href="#projects">View My Work</a></div></div>
-  <section id="about"><div class="wrap"><h2>About Me</h2><p class="lead">I am a video editor focused on impactful storytelling, smooth pacing, and engaging visuals.</p></div></section>
-  <section id="skills"><div class="wrap"><h2>Specializations</h2><div class="skills"><span class="pill">Web Series Editing</span><span class="pill">Wedding Video Editing</span><span class="pill">Instagram Reels</span><span class="pill">YouTube Shorts</span><span class="pill">Song Editing</span><span class="pill">Video Editing</span></div></div></section>
-  <section id="projects"><div class="wrap"><h2>Selected Projects</h2><p id="status" class="status" role="status">Loading projects...</p><div id="projectGrid" class="grid"></div></div></section>
-  <section id="contact"><div class="wrap contact"><h2>Contact</h2><p>Email: <a href="mailto:starrohitsaroj@gmail.com">starrohitsaroj@gmail.com</a></p><p>Phone: <a href="tel:+918468030096">+91 8468030096</a></p></div></section>
-</main>
-<footer><div class="wrap">© <span id="year"></span> Rohit Saroj. All rights reserved.</div></footer>
+<div id="home" class="hero"><div class="wrap"><div class="eyebrow">Video Editor • Creator • Learn for Free</div><h1>Create. <em>Edit.</em><br>Inspire.</h1><p class="lead">Professional video editing portfolio and free, chapter-wise Hindi lessons. Learn by reading, screenshots and practice — no course videos required.</p><div class="actions"><a class="button" href="#courses">Start Learning Free →</a><a class="button secondary" href="#projects">View Portfolio</a></div></div></div>
+<section id="about"><div class="wrap"><h2>About Me</h2><p class="lead">I am Rohit Saroj, a video editor focused on impactful storytelling, smooth pacing, and engaging visuals. I also share free text-based editing lessons.</p></div></section>
+<section id="skills"><div class="wrap"><h2>Editing Specializations</h2><div class="skills"><span class="pill">Web Series Editing</span><span class="pill">Wedding Video Editing</span><span class="pill">Instagram Reels</span><span class="pill">YouTube Shorts</span><span class="pill">Song Editing</span><span class="pill">Video Editing</span></div></div></section>
+<section id="projects"><div class="wrap"><h2>Selected Projects</h2><p id="status" class="status" role="status">Loading projects...</p><div id="projectGrid" class="grid"></div></div></section>
+<section id="courses"><div class="wrap"><div class="eyebrow">100% Free • Book-style Learning</div><h2>Free Video Editing Courses</h2><p class="lead">Adobe Premiere Pro की शुरुआती पढ़ाई हिंदी में — Text Lessons, Practical Exercises और Quizzes के साथ। नीचे Demo Chapters हैं; पूरा 40-Chapter Course अभी जोड़ा जाना बाकी है।</p><div class="card"><div class="content"><div class="tag">FREE • TEXT-BASED</div><h3>Adobe Premiere Pro — Hindi Course</h3><p>Beginner-friendly sample lessons. No paid access, video player or login needed.</p><a class="button" href="#lessonReader">Read Lessons ↓</a></div></div>
+<div class="course-shell" id="lessonReader"><aside class="lesson-menu"><h3>Course Chapters</h3><p class="muted" id="progressLabel">0 of 3 lessons completed</p><div class="progress" aria-label="Course progress"><div id="progressBar"></div></div><div id="lessonMenu"></div><button id="resetProgress" type="button">Reset my progress</button></aside><article class="reader" aria-live="polite"><div class="tag" id="lessonTag">FREE LESSON</div><h3 id="lessonTitle"></h3><div id="lessonBody"></div><div class="quiz" id="quizBox"><strong id="quizQuestion"></strong><div id="quizAnswers"></div><p id="quizFeedback" role="status"></p><button class="button" id="checkAnswer" type="button">Check Answer</button></div><div class="actions"><button class="button" id="completeLesson" type="button">Mark as Completed ✓</button><button class="button secondary" id="nextLesson" type="button">Next Lesson →</button></div></article></div><p class="muted">Progress is saved only in this browser on this device. It is not synced to a student account.</p></div></section>
+<section id="contact"><div class="wrap contact"><h2>Contact</h2><p>Email: <a href="mailto:starrohitsaroj@gmail.com">starrohitsaroj@gmail.com</a></p><p>Phone: <a href="tel:+918468030096">+91 8468030096</a></p></div></section>
+</main><footer><div class="wrap">© <span id="year"></span> Rohit Saroj. All rights reserved.</div></footer>
 <script>
-  // The publishable key is intended for public client-side use. Never put a secret/service_role key here.
-  const SUPABASE_URL = 'https://drcpfbhealrpccfabltw.supabase.co';
-  const SUPABASE_KEY = 'sb_publishable_HcTawEY8KWB6PIruhFIPPg__DArNAyg';
-  const statusEl = document.getElementById('status');
-  const gridEl = document.getElementById('projectGrid');
-  document.getElementById('year').textContent = new Date().getFullYear();
-
-  function safeUrl(value) {
-    try {
-      const url = new URL(String(value || ''));
-      return ['https:', 'http:'].includes(url.protocol) ? url.href : '';
-    } catch { return ''; }
-  }
-  function youtubeThumbnail(url) {
-    try {
-      const u = new URL(url);
-      let id = '';
-      if (u.hostname === 'youtu.be' || u.hostname === 'www.youtu.be') id = u.pathname.split('/')[1];
-      else if (['youtube.com','www.youtube.com','m.youtube.com'].includes(u.hostname)) {
-        if (u.pathname === '/watch') id = u.searchParams.get('v') || '';
-        else if (u.pathname.startsWith('/shorts/') || u.pathname.startsWith('/embed/')) id = u.pathname.split('/')[2];
-      }
-      return /^[a-zA-Z0-9_-]{11}$/.test(id) ? `https://img.youtube.com/vi/${id}/hqdefault.jpg` : '';
-    } catch { return ''; }
-  }
-  function makeProject(project) {
-    const card = document.createElement('article'); card.className = 'project';
-    const videoUrl = safeUrl(project.video_url);
-    const imageUrl = safeUrl(project.thumbnail_url) || youtubeThumbnail(videoUrl);
-    if (imageUrl) {
-      const image = document.createElement('img'); image.src = imageUrl; image.alt = String(project.title || 'Project thumbnail'); image.loading = 'lazy';
-      image.referrerPolicy = 'no-referrer'; card.appendChild(image);
-    }
-    const content = document.createElement('div'); content.className = 'content';
-    if (project.category) { const tag = document.createElement('div'); tag.className = 'tag'; tag.textContent = project.category; content.appendChild(tag); }
-    const heading = document.createElement('h3'); heading.textContent = project.title || 'Untitled Project'; content.appendChild(heading);
-    // Supabase table currently uses the column name "discription".
-    const description = project.discription || project.description;
-    if (description) { const p = document.createElement('p'); p.textContent = description; content.appendChild(p); }
-    if (videoUrl) { const a = document.createElement('a'); a.href = videoUrl; a.target = '_blank'; a.rel = 'noopener noreferrer'; a.textContent = 'Watch Video ↗'; content.appendChild(a); }
-    card.appendChild(content); return card;
-  }
-  async function loadProjects() {
-    try {
-      const endpoint = `${SUPABASE_URL}/rest/v1/projects?select=*`;
-      const response = await fetch(endpoint, { headers: { apikey: SUPABASE_KEY, Authorization: `Bearer ${SUPABASE_KEY}` } });
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      const projects = await response.json();
-      if (!Array.isArray(projects)) throw new Error('Unexpected response');
-      gridEl.replaceChildren(...projects.map(makeProject));
-      statusEl.textContent = projects.length ? '' : 'Projects coming soon.';
-    } catch (error) {
-      console.error('Could not load projects:', error);
-      statusEl.textContent = 'Projects could not be loaded. Check Supabase public SELECT permission (RLS) and project settings.';
-    }
-  }
-  loadProjects();
+'use strict';
+// Public publishable key only. NEVER add a Supabase secret/service_role key to this file.
+const SUPABASE_URL='https://drcpfbhealrpccfabltw.supabase.co';
+const SUPABASE_KEY='sb_publishable_HcTawEY8KWB6PIruhFIPPg__DArNAyg';
+const statusEl=document.getElementById('status');
+const gridEl=document.getElementById('projectGrid');
+document.getElementById('year').textContent=new Date().getFullYear();
+function safeUrl(value){try{const url=new URL(String(value||''));return ['https:','http:'].includes(url.protocol)?url.href:''}catch{return ''}}
+function youtubeThumbnail(url){try{const u=new URL(url);let id='';if(['youtu.be','www.youtu.be'].includes(u.hostname))id=u.pathname.split('/')[1];else if(['youtube.com','www.youtube.com','m.youtube.com'].includes(u.hostname)){if(u.pathname==='/watch')id=u.searchParams.get('v')||'';else if(u.pathname.startsWith('/shorts/')||u.pathname.startsWith('/embed/'))id=u.pathname.split('/')[2]}return /^[a-zA-Z0-9_-]{11}$/.test(id)?`https://img.youtube.com/vi/${id}/hqdefault.jpg`:''}catch{return ''}}
+function makeProject(project){const card=document.createElement('article');card.className='card';const videoUrl=safeUrl(project.video_url);const imageUrl=safeUrl(project.thumbnail_url)||youtubeThumbnail(videoUrl);if(imageUrl){const image=document.createElement('img');image.src=imageUrl;image.alt=String(project.title||'Project thumbnail');image.loading='lazy';image.referrerPolicy='no-referrer';card.appendChild(image)}const content=document.createElement('div');content.className='content';if(project.category){const tag=document.createElement('div');tag.className='tag';tag.textContent=project.category;content.appendChild(tag)}const heading=document.createElement('h3');heading.textContent=project.title||'Untitled Project';content.appendChild(heading);const description=project.discription||project.description;if(description){const p=document.createElement('p');p.textContent=description;content.appendChild(p)}if(videoUrl){const a=document.createElement('a');a.href=videoUrl;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Watch Video ↗';content.appendChild(a)}card.appendChild(content);return card}
+async function loadProjects(){try{const endpoint=`${SUPABASE_URL}/rest/v1/projects?select=*`;const response=await fetch(endpoint,{headers:{apikey:SUPABASE_KEY,Authorization:`Bearer ${SUPABASE_KEY}`}});if(!response.ok)throw new Error(`HTTP ${response.status}`);const projects=await response.json();if(!Array.isArray(projects))throw new Error('Unexpected response');gridEl.replaceChildren(...projects.map(makeProject));statusEl.textContent=projects.length?'':'Projects coming soon.'}catch(error){console.error('Could not load projects:',error);statusEl.textContent='Projects could not be loaded. Check Supabase project status and public SELECT permissions (RLS).'}}
+loadProjects();
+// These are illustrative starter lessons, not the user's complete 40-chapter course.
+const lessons=[
+{title:'Chapter 1 — Video Editing क्या है?',body:'<p>Video Editing वह प्रक्रिया है जिसमें रिकॉर्ड किए गए Clips को चुनकर, सही क्रम में रखकर और आवश्यक बदलाव करके एक कहानी तैयार की जाती है।</p><h4>Editing में क्या होता है?</h4><ol><li>Footage को Import करना</li><li>अनावश्यक हिस्से हटाना</li><li>Clips का सही क्रम बनाना</li><li>Audio, Titles और Color सुधारना</li><li>Final Video Export करना</li></ol><p><strong>Practice:</strong> किसी छोटे वीडियो को देखकर पहचानो कि उसमें कहाँ Cut हुआ है।</p>',question:'Editing का मुख्य उद्देश्य क्या है?',answers:['Footage को व्यवस्थित करके कहानी बनाना','Computer बंद करना','सिर्फ File Rename करना'],correct:0},
+{title:'Chapter 2 — Premiere Pro Interface',body:'<p>Premiere Pro में कई Panels होते हैं। <strong>Project Panel</strong> में Media Files दिखाई देती हैं, <strong>Source Monitor</strong> में Clip Preview होता है, <strong>Timeline</strong> पर Editing होती है और <strong>Program Monitor</strong> में Sequence का Result दिखता है।</p><p><strong>Practice:</strong> इन चार Panels के नाम लिखो और हर Panel का एक काम बताओ।</p>',question:'Video Clips को क्रम में कहाँ Edit करते हैं?',answers:['Project Panel','Timeline','Effects Search'],correct:1},
+{title:'Chapter 3 — Cutting और Trimming',body:'<p><strong>Cutting</strong> का मतलब Clip को हिस्सों में बाँटना है। <strong>Trimming</strong> में Clip के Start या End को छोटा किया जाता है। Premiere Pro में Selection Tool से Clip के किनारे खींचकर Trim किया जा सकता है।</p><p><strong>Practice:</strong> 20-second Clip में से 5-second का अनावश्यक हिस्सा हटाने की योजना बनाओ।</p>',question:'Clip का Start या End छोटा करने को क्या कहते हैं?',answers:['Exporting','Trimming','Rendering'],correct:1}
+];
+const menu=document.getElementById('lessonMenu'),title=document.getElementById('lessonTitle'),body=document.getElementById('lessonBody'),quizQuestion=document.getElementById('quizQuestion'),quizAnswers=document.getElementById('quizAnswers'),feedback=document.getElementById('quizFeedback');
+let current=0,completed=[];try{const saved=JSON.parse(localStorage.getItem('rs-free-course-progress-v1')||'[]');if(Array.isArray(saved))completed=saved.filter(i=>Number.isInteger(i)&&i>=0&&i<lessons.length)}catch{}
+function saveProgress(){try{localStorage.setItem('rs-free-course-progress-v1',JSON.stringify(completed))}catch{}}
+function renderProgress(){document.getElementById('progressLabel').textContent=`${completed.length} of ${lessons.length} lessons completed`;document.getElementById('progressBar').style.width=`${completed.length/lessons.length*100}%`;menu.replaceChildren();lessons.forEach((lesson,i)=>{const b=document.createElement('button');b.type='button';b.className=i===current?'active':'';b.textContent=`${completed.includes(i)?'✓':'○'} ${lesson.title}`;b.addEventListener('click',()=>showLesson(i));menu.appendChild(b)})}
+function showLesson(index){current=index;const lesson=lessons[index];title.textContent=lesson.title;body.innerHTML=lesson.body;quizQuestion.textContent=lesson.question;quizAnswers.replaceChildren();lesson.answers.forEach((answer,i)=>{const label=document.createElement('label'),radio=document.createElement('input');radio.type='radio';radio.name='quiz-answer';radio.value=String(i);label.append(radio,document.createTextNode(' '+answer));quizAnswers.appendChild(label)});feedback.textContent='';document.getElementById('completeLesson').textContent=completed.includes(index)?'Completed ✓':'Mark as Completed ✓';document.getElementById('nextLesson').disabled=index===lessons.length-1;renderProgress()}
+document.getElementById('checkAnswer').addEventListener('click',()=>{const chosen=document.querySelector('input[name="quiz-answer"]:checked');feedback.textContent=!chosen?'पहले एक उत्तर चुनें।':Number(chosen.value)===lessons[current].correct?'सही उत्तर! ✓':'फिर कोशिश करें।'});
+document.getElementById('completeLesson').addEventListener('click',()=>{if(!completed.includes(current)){completed.push(current);saveProgress()}showLesson(current)});
+document.getElementById('nextLesson').addEventListener('click',()=>{if(current<lessons.length-1)showLesson(current+1)});
+document.getElementById('resetProgress').addEventListener('click',()=>{if(confirm('इस Browser का Course Progress Reset करना है?')){completed=[];saveProgress();showLesson(current)}});
+showLesson(0);
 </script>
 </body>
 </html>
