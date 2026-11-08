@@ -1,0 +1,1522 @@
+[
+  {
+    "id": 1,
+    "title": "Video Editing की शुरुआत",
+    "summary": "Editing क्या है, workflow, storytelling और editor की जिम्मेदारियाँ",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Editing क्या है, workflow, storytelling और editor की जिम्मेदारियाँ। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक 30-second कहानी के लिए beginning, middle और ending लिखें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 2,
+    "title": "Premiere Pro Interface",
+    "summary": "Home, Project, Source Monitor, Program Monitor, Timeline और panels",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Home, Project, Source Monitor, Program Monitor, Timeline और panels। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "हर panel का काम अपनी notebook में लिखें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 3,
+    "title": "Project बनाना और Save करना",
+    "summary": "New Project, project location, autosave और folder organization",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "New Project, project location, autosave और folder organization। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक नया project बनाकर Footage, Audio, Graphics folders बनाएँ।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 4,
+    "title": "Media Import और Bins",
+    "summary": "Import, Media Browser, bins, metadata और file organization",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Import, Media Browser, bins, metadata और file organization। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "तीन प्रकार की media files को अलग-अलग bins में रखें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 5,
+    "title": "Sequence और Frame Rate",
+    "summary": "Resolution, fps, aspect ratio, progressive video और sequence presets",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Resolution, fps, aspect ratio, progressive video और sequence presets। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "1080p 25fps और 1080p 50fps sequence settings की तुलना करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 6,
+    "title": "Source Monitor और In/Out",
+    "summary": "Preview, mark in/out, insert, overwrite और source patching",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Preview, mark in/out, insert, overwrite और source patching। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक clip से दो छोटे selections तैयार करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 7,
+    "title": "Timeline की पूरी समझ",
+    "summary": "Tracks, playhead, snapping, zoom, track targeting और locking",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Tracks, playhead, snapping, zoom, track targeting और locking। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "V1, V2, A1, A2 पर media व्यवस्थित करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 8,
+    "title": "Selection और Track Select Tools",
+    "summary": "Selection, Track Select Forward/Backward और moving clips",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Selection, Track Select Forward/Backward और moving clips। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "कई clips को बिना overlap किए reposition करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 9,
+    "title": "Razor, Ripple और Rolling Edit",
+    "summary": "Razor, Ripple Edit, Rolling Edit, Slip और Slide",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Razor, Ripple Edit, Rolling Edit, Slip और Slide। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक montage में तीन अलग trimming techniques आजमाएँ।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 10,
+    "title": "Insert और Overwrite Editing",
+    "summary": "Insert बनाम Overwrite, shortcuts और track targeting",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Insert बनाम Overwrite, shortcuts और track targeting। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "बीच में नया shot जोड़ें और बाद वाले shots सुरक्षित रखें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 11,
+    "title": "Transitions",
+    "summary": "Cut, dissolve, dip to black और transition duration",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Cut, dissolve, dip to black और transition duration। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "दो scenes के बीच उचित transition लगाएँ।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 12,
+    "title": "Effect Controls और Keyframes",
+    "summary": "Motion, opacity, scale, position, interpolation और keyframes",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Motion, opacity, scale, position, interpolation और keyframes। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक image पर smooth zoom-in animation बनाएँ।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 13,
+    "title": "Text और Titles",
+    "summary": "Essential Graphics, typography, safe margins और lower thirds",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Essential Graphics, typography, safe margins और lower thirds। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक readable lower-third title बनाएँ।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 14,
+    "title": "Captions और Subtitles",
+    "summary": "Caption tracks, transcription workflow और subtitle readability",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Caption tracks, transcription workflow और subtitle readability। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "20-second clip के लिए subtitles तैयार करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 15,
+    "title": "Audio Editing Basics",
+    "summary": "Waveforms, gain, volume, fades और audio tracks",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Waveforms, gain, volume, fades और audio tracks। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "Dialogue और music को अलग tracks में संतुलित करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 16,
+    "title": "Audio Cleanup",
+    "summary": "Noise reduction, EQ, compressor और dialogue clarity",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Noise reduction, EQ, compressor और dialogue clarity। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "शोर वाले sample की तुलना cleaned version से करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 17,
+    "title": "Music और Sound Effects",
+    "summary": "Music pacing, SFX placement और copyright awareness",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Music pacing, SFX placement और copyright awareness। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "Royalty-free audio के साथ 20-second edit करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 18,
+    "title": "Color Correction Basics",
+    "summary": "Exposure, white balance, contrast और scopes",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Exposure, white balance, contrast और scopes। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक underexposed clip को natural बनाएं।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 19,
+    "title": "Lumetri Color",
+    "summary": "Basic Correction, Creative, Curves, Wheels और HSL Secondary",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Basic Correction, Creative, Curves, Wheels और HSL Secondary। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "दो shots का color match करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 20,
+    "title": "Color Grading और Looks",
+    "summary": "Mood, consistency, LUTs और skin-tone awareness",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Mood, consistency, LUTs और skin-tone awareness। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक scene के दो अलग moods तैयार करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 21,
+    "title": "Speed और Time Remapping",
+    "summary": "Speed/Duration, reverse, optical flow और speed ramps",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Speed/Duration, reverse, optical flow और speed ramps। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक action clip पर smooth speed change करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 22,
+    "title": "Masks और Tracking",
+    "summary": "Opacity masks, feather, expansion और mask tracking",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Opacity masks, feather, expansion और mask tracking। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "किसी moving object के लिए simple mask बनाएं।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 23,
+    "title": "Green Screen और Keying",
+    "summary": "Ultra Key, matte cleanup और spill suppression",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Ultra Key, matte cleanup और spill suppression। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "Green-screen sample को नए background से जोड़ें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 24,
+    "title": "Multicam Editing",
+    "summary": "Camera synchronization, multicam sequence और angle switching",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Camera synchronization, multicam sequence और angle switching। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "दो camera angles के बीच edit करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 25,
+    "title": "Proxies और 4K Workflow",
+    "summary": "Create Proxies, attach, toggle, relink और export originals",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Create Proxies, attach, toggle, relink और export originals। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "Proxy status check करके original footage से export करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 26,
+    "title": "Nested Sequences",
+    "summary": "Nesting, adjustment layers और compound editing",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Nesting, adjustment layers और compound editing। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "तीन clips को nest करके एक effect लगाएँ।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 27,
+    "title": "Advanced Effects",
+    "summary": "Blur, sharpen, transform और effect stacking",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Blur, sharpen, transform और effect stacking। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक short creative transition तैयार करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 28,
+    "title": "Motion Graphics Workflow",
+    "summary": "MOGRT templates, editing controls और graphics organization",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "MOGRT templates, editing controls और graphics organization। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक customizable title template इस्तेमाल करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 29,
+    "title": "Reels और Shorts Editing",
+    "summary": "9:16 framing, hooks, pacing, captions और mobile-safe design",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "9:16 framing, hooks, pacing, captions और mobile-safe design। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "30-second vertical reel बनाएं।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 30,
+    "title": "YouTube Video Editing",
+    "summary": "Story structure, B-roll, retention, chapters और audio balance",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Story structure, B-roll, retention, chapters और audio balance। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "2-minute educational edit का rough cut बनाएँ।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 31,
+    "title": "Wedding Video Editing",
+    "summary": "Ceremony coverage, emotional pacing, music और highlights",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Ceremony coverage, emotional pacing, music और highlights। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "60-second wedding highlight storyboard लिखें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 32,
+    "title": "Song और Music Video Editing",
+    "summary": "Beat cuts, performance sync और visual rhythm",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Beat cuts, performance sync और visual rhythm। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "Music beats पर दस cuts align करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 33,
+    "title": "Web Series और Narrative Editing",
+    "summary": "Continuity, dialogue, reaction shots और scene transitions",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Continuity, dialogue, reaction shots और scene transitions। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक dialogue scene का continuity edit करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 34,
+    "title": "Documentary Editing",
+    "summary": "Interviews, B-roll, factual storytelling और pacing",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Interviews, B-roll, factual storytelling और pacing। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "Interview के साथ supportive B-roll लगाएँ।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 35,
+    "title": "Media Management और Relinking",
+    "summary": "Offline media, relink, consolidate और folder paths",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Offline media, relink, consolidate और folder paths। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "Media Offline होने पर सही source locate करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 36,
+    "title": "EDL, XML और Round-Trip",
+    "summary": "Edit decision lists, XML, conform और compatibility limits",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Edit decision lists, XML, conform और compatibility limits। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "Sample timeline का XML export करके structure देखें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 37,
+    "title": "Export Settings",
+    "summary": "H.264, HEVC, bitrate, VBR, audio codec और presets",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "H.264, HEVC, bitrate, VBR, audio codec और presets। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "1080p export की quality और size compare करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 38,
+    "title": "Quality Control",
+    "summary": "Black frames, missing media, clipping, spelling और export review",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Black frames, missing media, clipping, spelling और export review। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "Export QC checklist से अपना video जांचें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 39,
+    "title": "Client Workflow और Delivery",
+    "summary": "Brief, revisions, versioning, backups और delivery etiquette",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Brief, revisions, versioning, backups और delivery etiquette। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "Client delivery folder और revision notes तैयार करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  },
+  {
+    "id": 40,
+    "title": "Final Project और Portfolio",
+    "summary": "Complete project planning, editing, export और portfolio presentation",
+    "steps": [
+      {
+        "heading": "समझें",
+        "text": "पहले विषय का उद्देश्य पहचानें। हर tool या setting का चुनाव कहानी, clarity और delivery requirement के आधार पर करें।"
+      },
+      {
+        "heading": "तैयारी",
+        "text": "Project को व्यवस्थित रखें: original media को अलग folder में रखें, meaningful file names दें और editing से पहले footage की frame rate तथा resolution जाँचें।"
+      },
+      {
+        "heading": "इस अध्याय का मुख्य विषय",
+        "text": "Complete project planning, editing, export और portfolio presentation। अलग-अलग विकल्पों का प्रयोग करें और देखें कि वे timeline या output पर क्या प्रभाव डालते हैं।"
+      },
+      {
+        "heading": "करके सीखें",
+        "text": "Premiere Pro में एक छोटे test project पर इस अध्याय के feature को लागू करें। पहले बदलाव का परिणाम देखें, फिर undo करके दूसरा विकल्प आजमाएँ।"
+      },
+      {
+        "heading": "जाँच",
+        "text": "Program Monitor में परिणाम देखें, audio meters और timeline पर ध्यान दें। Preview सही लगने पर भी export को अलग से पूरा चलाकर जाँचें।"
+      }
+    ],
+    "practice": "एक 60–90-second original showcase edit पूरा करें।",
+    "quiz": {
+      "question": "इस अध्याय को सीखने का सबसे अच्छा तरीका क्या है?",
+      "options": [
+        "सिर्फ नाम याद करना",
+        "छोटे project में प्रयोग और परिणाम की जाँच करना",
+        "बिना जाँचे export कर देना"
+      ],
+      "answer": 1
+    },
+    "note": "यह मौलिक शुरुआती पाठ है; वास्तविक Premiere Pro version के अनुसार menu नाम बदल सकते हैं।"
+  }
+]
